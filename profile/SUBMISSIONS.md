@@ -1,4 +1,4 @@
-# submissions
+# Submissions
 # 🚀 Hack the Clock – Submissions Guide
 
 Time’s almost up — here’s how to hand in your creation before the buzzer.  
