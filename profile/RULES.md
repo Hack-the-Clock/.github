@@ -1,4 +1,4 @@
-# rules
+# Rules
 # 🚀 Hack the Clock – Official Rules
 
 Welcome to **SGTA: Hack the Clock**, the 12-hour AI Innovation Hackathon hosted by the **Stevens Graduate Technical Association (SGTA)** & **Graduate Consulting Club (GCC)**!  
