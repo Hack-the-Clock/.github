@@ -1,4 +1,4 @@
-# challenges
+# Challenges
 # 💡 Hack the Clock – Challenge Tracks
 
 Innovation doesn’t wait — and neither will you.  
