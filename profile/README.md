@@ -8,12 +8,12 @@
 </p>
 
 <p align="center">
-  <!-- Update these links once repos are live -->
-  <a href="https://github.com/hack-the-clock/rules"><img alt="Rules" src="https://img.shields.io/badge/Rules-%F0%9F%93%9D-0B1B34?labelColor=0B1B34&color=00D4FF"></a>
-  <a href="https://github.com/hack-the-clock/challenges"><img alt="Challenges" src="https://img.shields.io/badge/Challenges-%F0%9F%8F%86-0B1B34?labelColor=0B1B34&color=A9FF1A"></a>
-  <a href="https://github.com/hack-the-clock/starter-kits"><img alt="Starter Kits" src="https://img.shields.io/badge/Starter%20Kits-%F0%9F%9B%A0%EF%B8%8F-0B1B34?labelColor=0B1B34&color=00D4FF"></a>
-  <a href="https://github.com/hack-the-clock/submissions"><img alt="Submissions" src="https://img.shields.io/badge/Submissions-%F0%9F%93%84-0B1B34?labelColor=0B1B34&color=A9FF1A"></a>
+  <a href="./RULES.md"><img alt="Rules" src="https://img.shields.io/badge/Rules-%F0%9F%93%9D-0B1B34?labelColor=0B1B34&color=00D4FF"></a>
+  <a href="./CHALLENGES.md"><img alt="Challenges" src="https://img.shields.io/badge/Challenges-%F0%9F%8F%86-0B1B34?labelColor=0B1B34&color=A9FF1A"></a>
+  <a href="./STARTERKITS.md"><img alt="Starter Kits" src="https://img.shields.io/badge/Starter%20Kits-%F0%9F%9B%A0%EF%B8%8F-0B1B34?labelColor=0B1B34&color=00D4FF"></a>
+  <a href="./SUBMISSIONS.md"><img alt="Submissions" src="https://img.shields.io/badge/Submissions-%F0%9F%93%84-0B1B34?labelColor=0B1B34&color=A9FF1A"></a>
 </p>
+
 
 ---
 
