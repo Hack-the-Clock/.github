@@ -44,7 +44,7 @@
 ---
 
 ## Schedule (high level)
-- **9:00 AM** — Check-in, coffee, team formation  
+- **9:00 AM** — Check-in and team formation  
 - **9:30 AM** — Opening remarks & logistics  
 - **12:30 PM** — Lunch  
 - **3:00 PM** — “State of the Hack” update  
