@@ -65,7 +65,7 @@ team-chronos_smart-supply-ai/
 <h2>Deadline</h2>
 
 <ul>
-  <li>Final push: <b>8:00 PM EST on Nov 6 2025</b></li>
+  <li>Final push: <b>7:00 PM EST on Nov 6 2025</b></li>
   <li>Commits after that time will not be accepted</li>
   <li>Judging starts immediately</li>
 </ul>
@@ -79,7 +79,7 @@ team-chronos_smart-supply-ai/
   <li>All code, docs, and demo included</li>
   <li>README complete</li>
   <li>Pull Request created before deadline</li>
-  <li>Team ready for live demo at 8:15 PM</li>
+  <li>Team ready for live demo at 7:30 PM</li>
 </ul>
 
 ---
