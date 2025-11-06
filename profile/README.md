@@ -48,9 +48,9 @@
 - **9:30 AM** — Opening remarks & logistics  
 - **12:30 PM** — Lunch  
 - **3:00 PM** — “State of the Hack” update  
-- **6:30 PM** — Dinner  
+- **5:30 PM** — Snacks  
 - **8:00 PM** — **Submission deadline** (repos must be publicly viewable or shared with judges)  
-- **8:15 PM** — Judging (science-fair style, ~5 min/team)  
+- **8:15 PM** — Judging (science-fair style with demo, ~5 min/team)  
 - **9:00 PM** — Awards & closing photo
 
 ---
