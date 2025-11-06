@@ -21,7 +21,7 @@
 ---
 
 ## 1. Eligibility
-- Open to **all Stevens Institute of Technology students** (graduate & undergraduate).  
+- Open to **all Stevens Institute of Technology students** (graduates).  
 - Participants register individually but can form or join teams before hacking begins.  
 - Teams can mix students from any school, program, or discipline.
 
@@ -29,7 +29,7 @@
 
 ## 2. Team Formation
 - Form teams using **[Link](https://github.com/orgs/Hack-the-Clock/teams)**
-- Teams can have **up to 3 members**.  
+- Teams can have **recommended to have 3 members**.  
 - Solo hackers are welcome too!  
 - Each team must assign **one GitHub repo maintainer** for final submission.
 
